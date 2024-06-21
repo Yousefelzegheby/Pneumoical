@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "372718262854",
+    "project_id": "kook-1dd2c",
+    "storage_bucket": "kook-1dd2c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:372718262854:android:35170ee0bc46f97e278847",
+        "android_client_info": {
+          "package_name": "com.example.kook"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCvhCw8xyc2mJqotqePm2nzDaR9m_qBy9I"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
